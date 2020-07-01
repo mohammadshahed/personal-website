@@ -1,5 +1,6 @@
 body{
     font-family: 'Raleway', sans-serif;
+    margin: 0px;
 }
 
 h1{
@@ -20,7 +21,6 @@ h1{
     margin: 0px 200px;
 }
 .footer-top{
-    ;
     text-align: center;
 }
 .footer2-top{
@@ -58,7 +58,9 @@ h1{
 }
 
 .footer-text{
+    background-color: silver;
     text-align: center;
+    padding: 20px;
 }
 .top-banner-background{
     background-image: url(images/biography-bg.png);
