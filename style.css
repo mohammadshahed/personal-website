@@ -1,0 +1,88 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+.project-work-header h1{
+    text-align: center;
+    font-weight: bold;
+}
+.project-work-image ul img{
+    margin-left: 80px;
+    float: left;
+    width: 300px;
+    height: 300px;
+    
+}
+#margin{
+    margin: 0px 200px;
+}
+.footer-top{
+    ;
+    text-align: center;
+}
+.footer2-top{
+    width: 50%;
+    margin-top: -100px;
+    text-decoration: none;
+    background-color: grey;
+    text-align: center;
+    padding: 50px;
+    box-shadow: 5px 5px 15px cyan;
+    margin: auto;
+}
+.footer2-top a{
+    text-decoration: none;
+}
+
+.name-highlight{
+    color: blueviolet;
+}
+.highlight{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 50px;
+    padding-left: 30px;
+}
+
+.half-width img{
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+}
+
+.footer-text{
+    text-align: center;
+}
+.top-banner-background{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.bottom-banner-background{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+section{
+    height: 470px;
+}
+.button{
+    text-decoration: none;
+    border: 1px solid ;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 10px;
+    background-color: cyan;
+}
+
+a:hover{
+    color:white;
+}
