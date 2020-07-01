@@ -27,9 +27,10 @@ h1{
     width: 50%;
     margin-top: -100px;
     text-decoration: none;
-    background-color: grey;
+    background-color:yellowgreen;
     text-align: center;
     padding: 50px;
+    border-radius: 10px;
     box-shadow: 5px 5px 15px cyan;
     margin: auto;
 }
@@ -58,7 +59,7 @@ h1{
 }
 
 .footer-text{
-    background-color: silver;
+ 
     text-align: center;
     padding: 20px;
 }
